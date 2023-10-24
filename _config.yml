@@ -20,11 +20,11 @@ author: Paweł Podsiadły
 ###############################################
 
 navbar-links:
+  Blog: "https://pawelpodsiadly.github.io"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pawelpodsiadly.github.io"
+  # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
